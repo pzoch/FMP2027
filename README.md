@@ -1,12 +1,16 @@
 # Fiscal and Monetary Policy, University of Warsaw, Spring 2027
 
-Instructor: Piotr Żoch — <p.zoch@uw.edu.pl>
+## Contact info
 
-Office hours: by appointment.
+Piotr Żoch: _p.zoch@uw.edu.pl_
 
-[Course syllabus (PDF)](syllabus_fmp.pdf)
+Office hours: by appointment
 
-## Grading
+## Log and announcements
 
-- **Final exam: 70% of the final grade.** Closed-book exam in the examination session.
-- **Problem sets: 30% of the final grade.** Two or three assignments, submitted in groups of up to two people unless an assignment states otherwise.
+> [!IMPORTANT]
+> The [Spring 2027 syllabus (PDF)](syllabus_fmp.pdf) is available.
+>
+> **Final exam: 70% of the final grade.** Closed-book exam in the examination session.
+>
+> **Problem sets: 30% of the final grade.** Two or three assignments, submitted in groups of up to two people unless an assignment states otherwise.
