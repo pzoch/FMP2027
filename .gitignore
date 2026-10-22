@@ -1,0 +1,9 @@
+# Publish only the course README and student syllabus files.
+*
+!.gitignore
+!README.md
+!syllabus_fmp.lyx
+!syllabus_fmp.pdf
+
+# Administrative documents stay in the local course folder.
+/admin/
